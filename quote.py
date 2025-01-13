@@ -13,7 +13,7 @@ quotes = [
 ]
 
 # 제목
-st.title("Random Quote Generator")
+st.title("명언 출력기")
 
 # 버튼 클릭 시 랜덤 명언 출력
 if st.button("Generate a Quote"):
